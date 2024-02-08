@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956536079465",
+    "project_id": "login-latihan-2f649",
+    "storage_bucket": "login-latihan-2f649.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956536079465:android:573e1ccdfe726584510ef8",
+        "android_client_info": {
+          "package_name": "com.balya.login_latihan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956536079465-ak0k1meo56scslpabagtmtvfmrsmhin7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf-XUyXqvrduK01EvCpeKZFVPIGh5CP2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956536079465-ak0k1meo56scslpabagtmtvfmrsmhin7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
